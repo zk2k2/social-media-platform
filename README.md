@@ -1,6 +1,6 @@
 # 🚀 Flink - Connect Through Shared Interests!
 
-Welcome to **Flink**, the social media app designed to bring people together based on shared interests! 🌍✨ Whether you're into sports, music, coding, or cooking, Flink helps you find like-minded individuals, create and join activities, and build meaningful connections. 
+Welcome to **Flink**, the social media platform designed to bring people together based on shared interests! 🌍✨ Whether you're into sports, music, coding, or cooking, Flink helps you find like-minded individuals, create and join activities, and build meaningful connections. 
 
 Flink was created for our 4th year Web Development with NestJS & Angular course project 👩🏻‍💻!
 
